@@ -36,6 +36,7 @@ span {
     margin-top: 100px;
     min-width: 300px;
     max-width: 600px;
+    margin-bottom:30px;
 }
 
 #input {
